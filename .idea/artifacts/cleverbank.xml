@@ -1,6 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="ear" name="cleverbank">
-    <output-path>$PROJECT_DIR$/out/artifacts/cleverbank</output-path>
-    <root id="archive" name="cleverbank.ear" />
-  </artifact>
-</component>
